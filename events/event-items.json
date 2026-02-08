@@ -1,0 +1,22 @@
+[
+    {
+        "name": "My first event",
+        "short_description": "This is my first event",
+        "category": "AI",
+        "image_url": "https://via.placeholder.com/150",
+        "start_date": "2026-01-01",
+        "end_date": "2026-01-02",
+        "location": "Online",
+        "zoom_url": "https://zoom.us/j/91288966290?pwd=1234567890",
+        "abstract": "This is my first event",
+        "speakers": [
+            {
+                "name": "John Doe",
+                "designation": "CEO",
+                "bio": "John Doe is the CEO of the company",
+                "image_url": "https://via.placeholder.com/150",
+                "website_url": "https://www.john-doe.com"
+            }
+        ]
+    }
+]
