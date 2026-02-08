@@ -1,22 +1,47 @@
 [
     {
-        "name": "My first event",
-        "short_description": "This is my first event",
-        "category": "AI",
-        "image_url": "https://via.placeholder.com/150",
-        "start_date": "2026-01-01",
-        "end_date": "2026-01-02",
-        "location": "Online",
-        "zoom_url": "https://zoom.us/j/91288966290?pwd=1234567890",
-        "abstract": "This is my first event",
-        "speakers": [
-            {
-                "name": "John Doe",
-                "designation": "CEO",
-                "bio": "John Doe is the CEO of the company",
-                "image_url": "https://via.placeholder.com/150",
-                "website_url": "https://www.john-doe.com"
-            }
-        ]
+        "name": "Benchmarking Beyond Borders: Making AI Testing Truly Global",
+        "short_description": "An event focused on advancing global approaches and standards for evaluating the performance and fairness of AI systems.",
+        "event_url": "https://cdt.org/event/benchmarking-beyond-borders-making-ai-testing-truly-global/",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-01-29",
+        "end_date": "2026-01-29",
+        "location": "Virtual",
+        "zoom_url": "",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Artificial Intelligence and the Global South: Perils, Pitfalls and Potential",
+        "short_description": "This conference examines the social, political, environmental, and economic impacts of AI in and for the Global South.",
+        "event_url": "https://events.cornell.edu/event/institute-for-african-development-spring-symposium-artificial-intelligence-and-the-global-south-perils-pitfalls-and-potential",
+        "category": [
+            "Conference"
+        ],
+        "image_url": "",
+        "start_date": "2026-04-22",
+        "end_date": "2026-04-23",
+        "location": "401 Warren Hall, Cornell University",
+        "zoom_url": "",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Thought Summit: LLMs And Society",
+        "short_description": "A 3-day thought summit exploring the future of LLMs in high-stakes settings.",
+        "event_url": "https://globalai.ai.cornell.edu/thought-summit/",
+        "category": [
+            "Conference"
+        ],
+        "image_url": "",
+        "start_date": "2025-05-19",
+        "end_date": "2025-05-22",
+        "location": "ILR Conference Center, Cornell University",
+        "zoom_url": "",
+        "abstract": "",
+        "speakers": []
     }
 ]
