@@ -9,6 +9,7 @@
         "image_url": "https://pi.math.cornell.edu/~levine/lionel-levine-cornell-2.jpg",
         "start_date": "2026-02-24",
         "end_date": "2026-02-24",
+        "time": "3:00 PM - 4:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
         "abstract": "Aligning AI with human values is a pressing unsolved problem. But what exactly does it mean to align an AI to a given set of values? And how would one verify that a given AI is aligned? These hard questions, plus the annoying little issue of whose values to prioritize, led researchers at leading AI labs to aim instead for “intent alignment”: AI that (wants to) do what its developers intend.",
