@@ -1,5 +1,20 @@
 [
     {
+        "name": "Measuring AI Values",
+        "short_description": "Dr. Lionel Levine will be speaking about his research on the future of AI.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "https://pi.math.cornell.edu/~levine/lionel-levine-cornell-2.jpg",
+        "start_date": "2026-02-24",
+        "end_date": "2026-02-24",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "Aligning AI with human values is a pressing unsolved problem. But what exactly does it mean to align an AI to a given set of values? And how would one verify that a given AI is aligned? These hard questions, plus the annoying little issue of whose values to prioritize, led researchers at leading AI labs to aim instead for “intent alignment”: AI that (wants to) do what its developers intend.",
+        "speakers": []
+    },
+    {
         "name": "Benchmarking Beyond Borders: Making AI Testing Truly Global",
         "short_description": "An event focused on advancing global approaches and standards for evaluating the performance and fairness of AI systems.",
         "event_url": "https://cdt.org/event/benchmarking-beyond-borders-making-ai-testing-truly-global/",
