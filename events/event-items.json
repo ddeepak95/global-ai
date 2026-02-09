@@ -1,18 +1,18 @@
 [
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Vinodkumar Prabhakaran** is a Research Scientist at Google working on ethical AI and machine learning fairness. His research combines natural language processing, machine learning, and social science methods to study societal harms such as bias, stereotypes, and online abuse. He earned his PhD in Computer Science from Columbia University.",
+        "name": "Global AI Seminar: AI for the World of Many",
+        "short_description": "**Dr. Vinodkumar Prabhakaran** is a Research Scientist at Google Research, where he co-leads the interdisciplinary Technology, AI, Society and Culture (TASC) team. His research deals with questions at the intersection of AI and society, with a focus on global and cross-cultural considerations. Before Google, he was a postdoc at Stanford University, and obtained his PhD from Columbia University. His prior research focused on building scalable ways using language technologies to identify and address large-scale societal issues such as racial disparities in policing, workplace incivility, and online abuse. He has published over 50 articles in top-tier venues such as the PNAS, ACL, TACL, NAACL, EMNLP, NeurIPS, and FAccT.",
         "event_url": "",
         "category": [
             "Seminar"
         ],
-        "image_url": "https://sites.coecis.cornell.edu/globalai/files/2025/04/vinodkumar.jpg",
+        "image_url": "https://sites.coecis.cornell.edu/globalai/files/2026/02/Vinod.jpg",
         "start_date": "2026-02-10",
         "end_date": "2026-02-10",
         "time": "3:00 PM - 4:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
-        "abstract": "",
+        "abstract": "As Large Language Models (LLMs) are increasingly deployed globally, they encounter a ‘world of many’ --- many users, many languages, many cultural contexts, and many value systems. However, these technologies are often developed within relatively monocultural contexts, leading to significant ‘cultural incongruencies’ when deployed at scale. In this talk, I will discuss our recent research, demonstrating that crucial concepts in AI, including core safety concepts like offensiveness and harm, and even preferences for human-likeness in LLMs are not universal truths but are deeply socially situated. Drawing on cross-cultural research and datasets, we illustrate how diverse global communities perceive AI interactions differently and how current models often reproduce specific cultural stereotypes. Finally, I will close by discussing how we can integrate intentionally diversified socio-cultural data, devise pluralistic evaluations, and develop geo-culturally grounded interventions to build AI systems that are transparent, controllable, and responsive to the complexities of a global audience.",
         "speakers": []
     },
     {
