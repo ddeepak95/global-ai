@@ -1,5 +1,165 @@
 [
     {
+        "name": "Global AI Seminar",
+        "short_description": "**Vinodkumar Prabhakaran** is a Research Scientist at Google working on ethical AI and machine learning fairness. His research combines natural language processing, machine learning, and social science methods to study societal harms such as bias, stereotypes, and online abuse. He earned his PhD in Computer Science from Columbia University.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-02-10",
+        "end_date": "2026-02-10",
+        "time": "3:00 PM - 4:00 PM ET",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Global AI Seminar",
+        "short_description": "**Ranjit Singh** is Program Director of the AI on the Ground initiative at Data & Society. His research examines how people interact with AI systems and how algorithmic systems shape everyday practices and governance. He holds a PhD in Science and Technology Studies from Cornell University.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-03-03",
+        "end_date": "2026-03-03",
+        "time": "3:00 PM - 4:00 PM ET",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Global AI Seminar",
+        "short_description": "**Matthew Wilkens** is an Associate Professor of Information Science at Cornell University. He uses computational and quantitative methods, including natural language processing, to study large-scale literary and cultural history and other large text datasets.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-03-10",
+        "end_date": "2026-03-10",
+        "time": "3:00 PM - 4:00 PM ET",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Global AI Seminar",
+        "short_description": "**Matteo Zallio** is a design researcher working on inclusive and human-centered technology. His work focuses on helping organizations design environments and technologies that support inclusion, diversity, equity, and accessibility.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-03-17",
+        "end_date": "2026-03-17",
+        "time": "3:00 PM - 4:00 PM ET",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Global AI Seminar",
+        "short_description": "**Steve Jackson** is a Professor of Information Science and Science and Technology Studies at Cornell University. His research focuses on the social and ethical dimensions of technology, including maintenance, repair, sustainability, and global inequality in technology systems.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-03-24",
+        "end_date": "2026-03-24",
+        "time": "3:00 PM - 4:00 PM ET",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Global AI Seminar",
+        "short_description": "**Katharina Reinecke** is a Professor at the University of Washington working in human-computer interaction and human-centered AI. Her research focuses on designing digital technology that is usable and useful for people across cultures and backgrounds.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-04-07",
+        "end_date": "2026-04-07",
+        "time": "3:00 PM - 4:00 PM ET",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Global AI Seminar",
+        "short_description": "**Mahika Phutane** is a Computer Science PhD researcher at Cornell University working in human interaction and AI-related computing research areas.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-04-14",
+        "end_date": "2026-04-14",
+        "time": "3:00 PM - 4:00 PM ET",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Global AI Seminar",
+        "short_description": "**Dhanaraj Thakur** is Research Director at the Center for Democracy & Technology, where he leads research on human rights, civil liberties, and technology policy. His work has informed global tech policy and focuses on digital rights, access, and governance.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-04-21",
+        "end_date": "2026-04-21",
+        "time": "3:00 PM - 4:00 PM ET",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Global AI Seminar",
+        "short_description": "**Faisal M. Lalani** is Head of Global Partnerships at the Collective Intelligence Project and a global community organizer working across technology policy, AI governance, and digital rights, building international coalitions around public-interest technology.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-04-28",
+        "end_date": "2026-04-28",
+        "time": "3:00 PM - 4:00 PM ET",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "",
+        "speakers": []
+    },
+    {
+        "name": "Global AI Seminar",
+        "short_description": "**Joshua Blumenstock** is a Chancellor’s Professor at UC Berkeley working at the intersection of machine learning and empirical economics. His research uses new data sources and computational methods to understand and reduce global poverty.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-05-12",
+        "end_date": "2026-05-12",
+        "time": "3:00 PM - 4:00 PM ET",
+        "location": "Gates 203 | Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
+        "abstract": "",
+        "speakers": []
+    },
+    {
         "name": "Global AI Seminar: Measuring AI Values",
         "short_description": "**Lionel Levine** is a Professor of Mathematics at Cornell University. He is a Fellow of the American Mathematical Society, and a past recipient of a Sloan Fellowship, NSF CAREER Award, and IAS Von Neumann Fellowship. His current research is aimed at increasing the probability that future AI systems benefit all of humanity and the planet.",
         "event_url": "",
