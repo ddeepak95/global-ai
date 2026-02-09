@@ -18,11 +18,11 @@
     {
         "name": "Global AI Seminar",
         "short_description": "**Ranjit Singh** is Program Director of the AI on the Ground initiative at Data & Society. His research examines how people interact with AI systems and how algorithmic systems shape everyday practices and governance. He holds a PhD in Science and Technology Studies from Cornell University.",
-        "event_url": "https://sites.coecis.cornell.edu/globalai/files/2025/04/ranjit.jpg",
+        "event_url": "",
         "category": [
             "Seminar"
         ],
-        "image_url": "",
+        "image_url": "https://sites.coecis.cornell.edu/globalai/files/2025/04/ranjit.jpg",
         "start_date": "2026-03-03",
         "end_date": "2026-03-03",
         "time": "3:00 PM - 4:00 PM ET",
@@ -34,11 +34,11 @@
     {
         "name": "Global AI Seminar",
         "short_description": "**Matthew Wilkens** is an Associate Professor of Information Science at Cornell University. He uses computational and quantitative methods, including natural language processing, to study large-scale literary and cultural history and other large text datasets.",
-        "event_url": "https://sites.coecis.cornell.edu/globalai/files/2025/01/wilkens.jpg",
+        "event_url": "",
         "category": [
             "Seminar"
         ],
-        "image_url": "",
+        "image_url": "https://sites.coecis.cornell.edu/globalai/files/2025/01/wilkens.jpg",
         "start_date": "2026-03-10",
         "end_date": "2026-03-10",
         "time": "3:00 PM - 4:00 PM ET",
