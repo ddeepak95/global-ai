@@ -17,18 +17,18 @@
     },
     {
         "name": "Global AI Seminar",
-        "short_description": "**Ranjit Singh** is Program Director of the AI on the Ground initiative at Data & Society. His research examines how people interact with AI systems and how algorithmic systems shape everyday practices and governance. He holds a PhD in Science and Technology Studies from Cornell University.",
+        "short_description": "**Ranjit Singh** is the director of Data & Society’s AI on the Ground program, where he oversees research on the social impacts of algorithmic systems, the governance of AI in practice, and emerging methods for organizing public engagement and accountability. His own work focuses on how people live with and make sense of AI, examining how algorithmic systems and everyday practices shape each other. His work draws on majority world scholarship, public policy analysis, and ethnographic fieldwork in settings ranging from scientific laboratories and bureaucratic agencies to public services and civic institutions. At Data & Society, he has previously led projects mapping the [conceptual vocabulary](https://datasociety.net/library/a-primer-on-ai-in-from-the-majority-world/) and [stories of living with AI](https://datasociety.net/library/parables-of-ai-in-from-the-majority-world-an-anthology/) in/from the majority world, framing the [place of algorithmic impact assessments in regulating AI](https://datasociety.net/library/assembling-accountability-algorithmic-impact-assessment-for-the-public-interest/), and investigating the [keywords that ground ongoing research into the datafied state](https://datasociety.net/library/keywords-of-the-datafied-state/).",
         "event_url": "",
         "category": [
             "Seminar"
         ],
-        "image_url": "https://sites.coecis.cornell.edu/globalai/files/2025/04/ranjit.jpg",
+        "image_url": "https://sites.coecis.cornell.edu/globalai/files/2026/02/Ranjit-Headshot.jpg",
         "start_date": "2026-03-03",
         "end_date": "2026-03-03",
         "time": "3:00 PM - 4:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
-        "abstract": "",
+        "abstract": "Computational systems increasingly act in the world in ways people experience as agency: they shape eligibility and render judgments that feel final. This talk takes that everyday attribution seriously as a way to read where power settles into routine infrastructures. Drawing on [*Parables of AI in/from the Majority World*](https://datasociety.net/library/parables-of-ai-in-from-the-majority-world-an-anthology/), I follow three linked problems that are central to thinking through contemporary AI ethics: what we count as impact, how narrative travels as evidence, and how attention gets organized. “Impact,” I argue, is a category produced through institutional routines: what gets documented, what gets compared, what gets treated as a baseline, and what gets dismissed as mere anecdote or exception. When we debate AI’s harms, we are often debating the terms of legibility, including which consequences will be made visible and which will remain outside the scope of evaluation. The talk then turns to storytelling as a method for tracing what remains out of scope for impact assessments: the work of living with computational systems, and the interpretive labor required to make those systems usable at all. I then treat attention as a social problem with technical consequences, linking the politics of what institutions choose to notice with the attention mechanisms that animate transformer models. Here, attention is allocated as time, concern, investigatory capacity, and authority. By placing these together, the talk offers a way to understand AI ethics less as a debate about designing better systems in the abstract and more as a struggle over what gets attention and by extension, becomes governable. My core argument is that making AI more just is a project of redistributing the power to define justice, including the power to decide what will count as harm, beginning with the slow discipline of listening to the ordinary.",
         "speakers": []
     },
     {
@@ -81,18 +81,18 @@
     },
     {
         "name": "Global AI Seminar",
-        "short_description": "**Katharina Reinecke** is a Professor at the University of Washington working in human-computer interaction and human-centered AI. Her research focuses on designing digital technology that is usable and useful for people across cultures and backgrounds.",
+        "short_description": "**Katharina Reinecke** is a Professor and Associate Director for Research and Communication in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, Seattle. She has been speaking and writing about intelligent user interfaces that seamlessly adapt to people’s cultural and demographic backgrounds for nearly two decades and has pioneered ways for reliable, large-scale data collection from participants around the world with her virtual lab, the LabintheWild. Katharina received a PhD in Computer Science from the University of Zurich and was a postdoctoral fellow at Harvard University. Prior to coming to the University of Washington, she was an Assistant Professor in the School of Information at the University of Michigan.",
         "event_url": "",
         "category": [
             "Seminar"
         ],
-        "image_url": "https://sites.coecis.cornell.edu/globalai/files/2024/12/katharina_reinecke.jpg",
+        "image_url": "https://sites.coecis.cornell.edu/globalai/files/2026/02/KatharinaReinecke_square.jpeg",
         "start_date": "2026-04-07",
         "end_date": "2026-04-07",
         "time": "3:00 PM - 4:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
-        "abstract": "",
+        "abstract": "Robots that encroach on your personal space, baffling emojis, a chatbot that gives you an answer that seems terribly rude—does any of this sound familiar? If so, you may know what it feels like to experience a clash of cultures in technology. In this talk, I will present key insights from my book *Digital Culture Shock: Who Creates Technology and Why This Matters* (Princeton, 2025), showing how culture—shared values, norms, and behaviors—influences both the design of technology and its use. Drawing on a set of common assumptions that do not translate across cultures, the talk will outline what is at stake and how we can resist generalizing our own cultural peccadillos in technology design.",
         "speakers": []
     },
     {
