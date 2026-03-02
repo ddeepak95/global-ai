@@ -32,8 +32,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Matthew Wilkens** is an Associate Professor of Information Science at Cornell University. He uses computational and quantitative methods, including natural language processing, to study large-scale literary and cultural history and other large text datasets.",
+        "name": "Global AI Seminar: In-distribution AI-generated literature for cultural simulation",
+        "short_description": "**Matthew Wilkens** is Associate Professor of Information Science at Cornell University, where he leads (with David Mimno) the Culture and Computation Lab and directs the multi-institutional AI for Cultural and Historical Reasoning project. His work is devoted to developing, validating, and using computational systems to study large-scale problems in literary and cultural history. He is the author of two books and of articles in venues ranging from American Literary History to Experimental Methods in Natural Language Processing to the Journal of Minimally Invasive Gynecology.",
         "event_url": "",
         "category": [
             "Seminar"
@@ -44,12 +44,12 @@
         "time": "3:00 PM - 4:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
-        "abstract": "",
+        "abstract": "I’ll try to make the case for humanities research that is experimental in the scientific sense, involving the systematic manipulation of variables under controlled conditions to support causal inference. To that end, I’ll present the results of our lab’s recent research using AI to create simulated in-distribution proxies for both high- and low-status contemporary novels. I will also describe in some detail ongoing work to build full-scale AI-based simulations of literary evolution in the twenty-first century (and, more challengingly, in earlier periods).",
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Matteo Zallio** is a design researcher working on inclusive and human-centered technology. His work focuses on helping organizations design environments and technologies that support inclusion, diversity, equity, and accessibility.",
+        "name": "Global AI Seminar: Ethical AI and Inclusive Design Futures",
+        "short_description": "**Dr. Matteo Zallio** is an Assistant Professor in Design at the University of Cambridge, whose work bridges inclusive design, artificial intelligence, and emerging technologies. With a dual background in academia and industry, he leads research and strategy to ensure digital and physical environments are inclusive, ethical, and designed for all. From advising S&P 500 companies to founding the Metavethics Institute, Matteo champions inclusive innovation that transforms complexity into opportunity for everyone.",
         "event_url": "",
         "category": [
             "Seminar"
@@ -60,7 +60,7 @@
         "time": "3:00 PM - 4:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
-        "abstract": "",
+        "abstract": "In a world racing to adopt AI, AI won’t just shape productivity, it will shape who gets included. In this session, Dr. Matteo Zallio will share practical frameworks from his industry experience and cutting-edge research at the University of Cambridge. Drawing on years of work improving human-centred workflows at companies like Autodesk and Amazon, advancing rigorous research at the University of Cambridge, and teaching thousands worldwide through his Coursera course Ethical AI: AI Essentials for Everyone, Dr. Zallio will show learners how to embed responsible technology at the heart of innovation.",
         "speakers": []
     },
     {
