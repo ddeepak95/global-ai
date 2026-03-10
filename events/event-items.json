@@ -64,8 +64,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Steve Jackson** is a Professor of Information Science and Science and Technology Studies at Cornell University. His research focuses on the social and ethical dimensions of technology, including maintenance, repair, sustainability, and global inequality in technology systems.",
+        "name": "Global AI Seminar: Planetary AI",
+        "short_description": "**Steven Jackson** is a Professor of Information Science and Science and Technology Studies and Vice-Provost for Academic Innovation at Cornell University. He works on problems of technology ethics, law and policy along with governance and collaboration: the million and one ways in which people work together to produce better outcomes, big and small. He’s especially interested in infrastructure, repair, and the pragmatics of hope, and the places where new computational practices meet shifting social and material worlds with implications for sustainability, meaning, and justice. He also directs the Computing On Earth Lab, an experimental collaboration that brings together social scientists, humanists, artists and engineers to rethink the material and planetary foundations of computing.",
         "event_url": "",
         "category": [
             "Seminar"
@@ -76,7 +76,7 @@
         "time": "3:00 PM - 4:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
-        "abstract": "",
+        "abstract": "This short and informal talk will offer a lightning introduction to the problem of planetary AI: all the ways in which AI draws from, runs on, and ultimately returns to the earth. Emphasizing material dimensions widely obscured in contemporary AI discourse (but not practice), it moves upstream and downstream from AI design and use to consider moments of sourcing and extraction, energy and water, and waste and repair, and how planetary flows and processes are being reshaped in this encounter. It concludes with some speculations for politics and policy, both near-to-hand and further afield, and reflections on what a ‘working relation’ with AI might look like.",
         "speakers": []
     },
     {
