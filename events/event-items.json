@@ -144,8 +144,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Dhanaraj Thakur** is Director of the Emerging Technology Initiative at the Multiracial Democracy Project at The George Washington University Law School, where he leads research on artificial intelligence, civil rights, and democratic governance. His work focuses on how emerging technologies shape digital rights, participation, and equity in society.",
+        "name": "Global AI Seminar: Intersectionality and the path to fairer outcomes in social media and AI governance",
+        "short_description": "**Dhanaraj Thakur** leads the Emerging Technologies Initiative which is part of the Multiracial Democracy Project at the George Washington University Law School. The Initiative aims to center racial justice when it comes technical, governance, and policy questions related to AI and democracy. Over the last 20 years worked to advance equity and human rights in tech policy primarily through academic publications and research for policy audiences and advocates. He holds a PhD in Public Policy from the Georgia Institute of Technology, and is a graduate of the London School of Economics, and the University of the West Indies, Mona.",
         "event_url": "",
         "category": [
             "Seminar"
@@ -156,7 +156,7 @@
         "time": "3:00 PM - 4:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
-        "abstract": "",
+        "abstract": "Intersectionality is recognized as a an important framework through which we can examine unique forms of oppression based on multiple forms of identity. In this talk I review some of my research that has attempted to leverage this framework in three different areas: (1) disinformation and abuse targeted at political candidates on social media, (2) how recommender systems can exacerbate harm online, and (3) the role of language identity as an important part of the content moderation of low-resource languages. I conclude with some thoughts on a new program I am developing that can employ intersectionality when it comes to AI and democracy.",
         "speakers": []
     },
     {
