@@ -156,17 +156,17 @@
         "time": "3:00 PM - 4:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/3811699431?pwd=OHlGaG1Xa2s2STRucFVJMWpreW95UT09&omn=91507729998",
-        "abstract": "",
+        "abstract": "AI development is moving fast — but who’s shaping it? Not most of the people who will live with the consequences. Faisal Lalani, Head of Global Partnerships at the Collective Intelligence Project, works on one of the harder problems in AI governance: how to channel public input into places where decisions get made. That means coordinating across civil society, domain experts, and governments worldwide — and wrestling with what democratic participation in AI looks like at scale. Faisal will share findings from CIP’s 2025 Global Dialogues Index Report — which surfaced perspectives from more than 6,000 people across 70 countries — and introduce weval.org, CIP’s platform for running societal impact evaluations on frontier models. He’ll dig into what gets lost when lived experience is stripped out of how we evaluate AI, and why standard approaches to public engagement so often fall short. The question underneath all of it: Can AI governance be democratic, and what would it take?",
         "speakers": []
     },
     {
         "name": "Global AI Seminar",
-        "short_description": "**Faisal M. Lalani** is Head of Global Partnerships at the Collective Intelligence Project and a global community organizer working across technology policy, AI governance, and digital rights, building international coalitions around public-interest technology.",
+        "short_description": "**Faisal M. Lalani** is a global community organizer born in Hyderabad, India, and living in New York City. He spent the past decade living and working in over a dozen countries to understand how emerging technologies were affecting the world’s most vulnerable populations. Whether it’s studying progressive curricula in rural Nepal or building community wireless networks in South African townships, he has worked to reconcile people and power to shape an inclusive and expansive future. Faisal is now the Head of Global Partnerships at the Collective Intelligence Project, where he actively coordinates with AI labs, governments, and civil society. He is also the Executive Director of We Are One Humanity, a global human rights foundation founded by Rajmohan Gandhi.",
         "event_url": "",
         "category": [
             "Seminar"
         ],
-        "image_url": "https://sites.coecis.cornell.edu/globalai/files/2026/02/faisal.jpg",
+        "image_url": "https://sites.coecis.cornell.edu/globalai/files/2026/04/faisa.jpg",
         "start_date": "2026-04-28",
         "end_date": "2026-04-28",
         "time": "3:00 PM - 4:00 PM ET",
