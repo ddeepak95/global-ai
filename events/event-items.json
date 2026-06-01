@@ -1,5 +1,20 @@
 [
     {
+        "name": "Cornell-UCT Research Symposium on Responsible AI",
+        "short_description": "Join researchers from the Cornell University’s Global AI Initiative and University of Cape Town’s AI Initiative for a virtual symposium exploring responsible AI for the Global South. The symposium will focus on opportunities for collaboration across AI safety, African language technologies, governance, and measurable societal impact, with the goal of developing joint research projects that move quickly from discussion to action.",
+        "event_url": "https://neuroscience.uct.ac.za/events/cornell-uct-responsible-ai-research-symposium",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "",
+        "start_date": "2026-06-03",
+        "end_date": "2026-06-03",
+        "location": "Virtual",
+        "zoom_url": "https://cornell.zoom.us/j/95817121474?pwd=EFbajaiuqbIXbRU6pAlmbBV3GAobqF.1",
+        "abstract": "",
+        "speakers": []
+    },
+    {
         "name": "Power, Resistance, and AI: Lessons from Designing Health Technologies in the Global South",
         "short_description": "**Mustafa Naseem** is a Clinical Associate Professor at the University of Michigan School of Information. His research examines how technology can democratize information access and agency for marginalized communities, particularly low-literate populations and women across South Asia. His work in Pakistan has spanned the design of immunization information systems, voice-based interventions to deliver health information, and platforms that engage men in behavior change around gender norms, several of which have reached tens of thousands of people in Punjab. Across these projects, he studies how local power dynamics and colonial legacies shape the way technology is adopted, resisted, and subverted. Prior to Michigan, Naseem directed the Innovations for Poverty Alleviation Lab at Information Technology University, Pakistan, and served as the ICTD Expert in Residence at the ATLAS Institute, University of Colorado Boulder. His research has been supported by the NSF, NIH, Gates Foundation, USAID, and UNICEF, among others. He holds a PhD in Design Science from the University of Michigan and an M.S. from the University of Colorado Boulder, where he was a Fulbright Scholar.",
         "event_url": "",
