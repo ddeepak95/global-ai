@@ -16,8 +16,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Dipto Das** is a Postdoctoral Fellow at Cornell University.",
+        "name": "Global AI Seminar: Rethinking AI Accountability and Fairness Across Communities, Models, and Institutions",
+        "short_description": "**Dr. Dipto Das** is a postdoctoral associate in the Bowers College of Computing and Information Science (part of Global Artificial Intelligence Initiative) at Cornell University. His research sits at the intersection of human-centered AI, algorithmic fairness, and AI governance, examining how algorithmic infrastructures reproduce, mask, and reconfigure power—especially in marginalized, low-resource, and the Global Majority communities. Previously, Dipto worked as a postdoctoral fellow in Computer Science at the University of Toronto. He holds a PhD and MS in Information Science and a Graduate Certificate in Digital Humanities from the University of Colorado Boulder, an MS in Computer Science from Missouri State University, and a BSEng in Computer Science and Engineering from Bangladesh University of Engineering and Technology. His work has appeared in flagship Association for Computing Machinery (ACM) venues like the Conference on Human Factors in Computing Systems (CHI) and the Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) with several Best Paper Honorable Mentions and Recognition for Diversity & Inclusion. His research has also been featured by The Atlantic, CBC, Ottawa Citizen, ACM XRDS, and Princeton University Press. His research has been supported by the Institute of Health Emergencies and Pandemics and the National Science Foundation, among others.",
         "event_url": "",
         "category": [
             "Seminar"
@@ -28,7 +28,7 @@
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "Examining AI accountability and fairness across institutions, technologies, and communities reveals how algorithmic power is produced, encoded, and encountered. The talk develops this perspective through three interconnected threads: governing, evaluating, and situating AI. It examines how public institutions govern algorithmic systems through mechanisms such as AI registers, impact assessments, and procurement practices; how AI models and datasets reproduce social hierarchies, cultural assumptions, and representational harms; and how communities interpret, negotiate, and contest algorithmic systems in everyday life. Drawing on evidence from public-sector AI across different countries, language technologies in low-resource contexts, and underrepresented communities in the Global South, the talk advances an ecosystemic approach to accountability and fairness that connects technical systems to the institutional and social worlds in which they operate.",
         "speakers": []
     },
     {
