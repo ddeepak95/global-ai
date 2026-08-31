@@ -96,35 +96,35 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Amy K. Somchanhmavong** is Associate Director of Global Community-Engaged Learning Programs at the David M. Einhorn Center for Community Engagement, Cornell University.",
+        "name": "Global AI Seminar: Exploring the Ethics of AI in Community-Engaged Learning (Session 1)",
+        "short_description": "**Amy Kuo Somchanhmavong** is Associate Director of the David M. Einhorn Center for Community Engagement. She has initiated, directed, and coordinated co-curricular and curricular-based community-engaged learning programs such as the Public Service Scholars Program, Public Achievement, and the Person-Centered Care Advocacy Team (PCAT). As a practitioner of the field, Amy has worked in community engagement for 15+ years, serving as a bridge builder for faculty and staff members with community-based organizations as well as nonprofit, nongovernmental, and grassroots projects.\n\n**Melina Ivanchikova** is an Associate Director at the Center for Teaching Innovation, Cornell University. At the heart of Melina Ivanchikova's pedagogy is an abiding curiosity and commitment to authentic and rightful presence. She's worked in higher education for two decades as a faculty member, curriculum developer, writer, editor, educational developer, and facilitator. She is also a scholar-practitioner who presents and writes for the field, including a recent conference presentation, \"Pedagogical creativity and Generative AI: From refusal to reconfiguration,\" with Amy Cheatle and Becky Lane, and a recently published article, \"Assessing intercultural learning in study abroad: An authentic, aligned approach for better outcomes\" (2026), with Eva Infante Mora.\n\n**Gladys Brangman** is Founder and CEO of Business Leaders of Colors (BLOC) in Ithaca, NY, a network of business owners, entrepreneurs, consultants, and social justice leaders. Gladys's goal is to support and nurture business owners of color throughout the region; she also provides technical assistance to clients in Binghamton, NY as an instructor within the Entrepreneurship Assistance Program at SUNY Broome Community College.",
         "event_url": "",
         "category": [
             "Seminar"
         ],
-        "image_url": "https://raw.githubusercontent.com/ddeepak95/global-ai/main/events/photos/amy-somchanhmavong.jpg",
+        "image_url": "https://raw.githubusercontent.com/ddeepak95/global-ai/main/events/photos/talk.jpg",
         "start_date": "2026-10-06",
         "end_date": "2026-10-06",
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "What is our role as educators and facilitators when we enact the principles of community partnership in relation to emergent guiding principles for critical AI literacy and education? This is the first of two sessions exploring the ethical questions and pedagogical conundrums in practice at the intersection of community-engaged and service-learning. In this session, we will explore foundational questions and guiding principles; a second session on October 13 will have faculty and/or community partners report out on how they are grappling with these issues in practice. The sessions are co-sponsored by the Einhorn Center, the Center for Teaching Innovation, and Cornell's Global AI Initiative.",
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Melina Ivanchikova** is an Associate Director at the Center for Teaching Innovation (CTI), Cornell University.",
+        "name": "Global AI Seminar: Exploring the Ethics of AI in Community-Engaged Learning (Session 2)",
+        "short_description": "**Amy Kuo Somchanhmavong** is Associate Director of the David M. Einhorn Center for Community Engagement. She has initiated, directed, and coordinated co-curricular and curricular-based community-engaged learning programs such as the Public Service Scholars Program, Public Achievement, and the Person-Centered Care Advocacy Team (PCAT). As a practitioner of the field, Amy has worked in community engagement for 15+ years, serving as a bridge builder for faculty and staff members with community-based organizations as well as nonprofit, nongovernmental, and grassroots projects.\n\n**Melina Ivanchikova** is an Associate Director at the Center for Teaching Innovation, Cornell University. At the heart of Melina Ivanchikova's pedagogy is an abiding curiosity and commitment to authentic and rightful presence. She's worked in higher education for two decades as a faculty member, curriculum developer, writer, editor, educational developer, and facilitator. She is also a scholar-practitioner who presents and writes for the field, including a recent conference presentation, \"Pedagogical creativity and Generative AI: From refusal to reconfiguration,\" with Amy Cheatle and Becky Lane, and a recently published article, \"Assessing intercultural learning in study abroad: An authentic, aligned approach for better outcomes\" (2026), with Eva Infante Mora.\n\n**Gladys Brangman** is Founder and CEO of Business Leaders of Colors (BLOC) in Ithaca, NY, a network of business owners, entrepreneurs, consultants, and social justice leaders. Gladys's goal is to support and nurture business owners of color throughout the region; she also provides technical assistance to clients in Binghamton, NY as an instructor within the Entrepreneurship Assistance Program at SUNY Broome Community College.",
         "event_url": "",
         "category": [
             "Seminar"
         ],
-        "image_url": "https://raw.githubusercontent.com/ddeepak95/global-ai/main/events/photos/melina-ivanchikova.jpg",
+        "image_url": "https://raw.githubusercontent.com/ddeepak95/global-ai/main/events/photos/talk.jpg",
         "start_date": "2026-10-13",
         "end_date": "2026-10-13",
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "What is our role as educators and facilitators when we enact the principles of community partnership in relation to emergent guiding principles for critical AI literacy and education? This is the second of two sessions exploring the ethical questions and pedagogical conundrums in practice at the intersection of community-engaged and service-learning. Building on the foundational questions and guiding principles explored in the first session on October 6, this session will have faculty and/or community partners report out on how they are grappling with these issues in practice. The sessions are co-sponsored by the Einhorn Center, the Center for Teaching Innovation, and Cornell's Global AI Initiative.",
         "speakers": []
     },
     {
