@@ -64,8 +64,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Aishwarya Agrawal** is an Assistant Professor at Université de Montréal.",
+        "name": "Global AI Seminar: How well do multimodal models align with diverse cultural expectations?",
+        "short_description": "**Aishwarya Agrawal** is an Assistant Professor in the Department of Computer Science and Operations Research at the University of Montreal. She is a Canada CIFAR AI Chair and a core academic member of Mila -- Quebec AI Institute, and spends one day a week as a Research Scientist at Google Research. From Aug 2019 - Dec 2020, Aishwarya was a full time Research Scientist at DeepMind. Aishwarya completed her PhD in Aug 2019 from Georgia Tech, working with Dhruv Batra and Devi Parikh.\n\nAishwarya's research focus is on multimodal AI research, specifically vision-language research, spanning various themes such as image-to-text and text-to-image generative models, visio-linguistic representation learning, compositional and fine-grained reasoning, parameter and data efficient learning, robust automatic evaluation, geo-diverse cultural understanding, multi-agent communication, and reliable, explainable and safe multimodal AI.\n\nAishwarya is a recipient of the 2025 Mark Everingham Prize, two Canada CIFAR AI Chair Awards, a Young Alumni Excellence Award from IIT Gandhinagar, a Georgia Tech Sigma Xi Best Ph.D. Thesis Award, a Georgia Tech College of Computing Dissertation Award, a Google Fellowship (declined), a Facebook Fellowship (declined) and an NVIDIA Graduate Fellowship.\n\nWebpage: https://www.iro.umontreal.ca/~agrawal/",
         "event_url": "",
         "category": [
             "Seminar"
@@ -76,7 +76,7 @@
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "Recent breakthroughs in multimodal foundation models—spanning Vision-Language Models (VLMs) and Text-to-Image (T2I) generators—have vastly expanded our ability to process and synthesize visual-linguistic content, yet their global usability remains hindered by an uneven grasp of diverse cultural contexts. In this talk, I will discuss how we can systematically evaluate “how well do multimodal models align with diverse cultural expectations?”. Specifically, we curated two benchmarks to evaluate geo-diverse cultural alignment of multimodal LLMs as well as text-to-image models. This required collecting judgements from humans from different parts of the world (10-11 countries spanning 5 continents) across diverse socio-cultural domains—from food and clothing to rituals and traditions. Our results uncover pronounced performance disparities across geographic regions, highlight critical failure rates in capturing both explicit and implicit cultural cues, and reveal that standard evaluation metrics correlate poorly with human cultural judgments.",
         "speakers": []
     },
     {
@@ -128,8 +128,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Kaitlyn Zhou** is an Assistant Professor at Cornell University.",
+        "name": "Global AI Seminar: New Era of Human-AI Interactions",
+        "short_description": "**Kaitlyn Zhou** is an assistant professor of information science and a senior research scientist at Together AI. Her research focuses on the dynamics of human interaction with language models (human-LM interaction), focusing on how generated language shapes human decision-making, reliance, and trust. Her contributions have been recognized at top-tier conferences in natural language processing and human computer interaction. She has received awards such as an NAACL Best Paper Runner-Up, an MIT EECS Rising Star, a Stanford graduate fellowship, and the College of Engineering Dean’s Medal. Her methods have been featured in high-profile news outlets like the New York Times and Wall Street Journal. She received her Ph.D. in computer science from Stanford University. Zhou has long advocated for increased access, inclusion, and equity in higher education and was appointed by the Washington State Governor to serve on the University of Washington Board of Regents.",
         "event_url": "",
         "category": [
             "Seminar"
@@ -140,7 +140,7 @@
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "In this talk, I will present the novel dynamics of human interaction with large language models (human-LM interaction), focusing on how these systems shape human decision-making, trust, and reliance. As the world seeks to integrate the innovations of foundation models into everyday work and life, my mission is to design human-centered natural language interfaces to augment human intelligence and democratize access to AI. My work pioneers key advancements in natural language processing and human-computer interaction by: 1) uncovering core algorithmic risks in current human-LM interactions, 2) articulating the factors that complicate human-AI interactions, and 3) proposing new human-LM interactions to serve the needs of a broader population.",
         "speakers": []
     },
     {
