@@ -32,8 +32,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Smitha Milli** is a Research Scientist at Meta FAIR (Meta Superintelligence Labs), where she is part of the AI & Society group.",
+        "name": "Global AI Seminar: Simulation-Augmented Generation: A Road to Representative AI",
+        "short_description": "**Smitha Milli** is a Research Scientist at Meta Superintelligence Labs in the AI & Society group. They received their BS and PhD in Electrical Engineering & Computer Science from UC Berkeley. Their research focuses on pluralistic alignment and collective governance of AI systems, i.e., ensuring that systems are effective for and inclusive of people who hold diverse and conflicting viewpoints. Their work has been discussed in live television such as on 60 Minutes, in policy outlets such as Tech Policy Press and the Knight First Amendment Institute, and in testimony to the House Financial Services Committee.",
         "event_url": "",
         "category": [
             "Seminar"
@@ -44,7 +44,7 @@
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "Generic calls for “Representative AI” overlook a key question: representative of whom? While I won’t aim to adjudicate the answer in this talk, I will argue that the population that we wish to be representative with respect to depends on both the user and conversational context. This demands flexible, context-sensitive representation which current approaches such as pre-training, post-training, and inference-time retrieval fail to provide. To address this gap, I’ll introduce the new technical research agenda we are pursuing: simulation-augmented generation (SAGE). In SAGE, the model dynamically identifies a relevant population for a given context, queries generative simulations of individuals in that population, and synthesizes their outputs to produce a final response. I’ll go over both the framework, our existing technical work which provides social choice foundations for SAGE, and ongoing open questions.",
         "speakers": []
     },
     {
