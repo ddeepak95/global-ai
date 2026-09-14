@@ -48,8 +48,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Aliya Bhatia** is a Senior Policy Analyst at the Center for Democracy and Technology (CDT), where she works with the Free Expression Project.",
+        "name": "Global AI Seminar: Whose language? Whose model?",
+        "short_description": "**Aliya Bhatia** serves as senior policy analyst with CDT's Free Expression Project where she conducts policy advocacy and research on issues related to automated content moderation, children's safety, and multilingual AI. She represents CDT on the Christchurch Call Advisory Network and as a member of the Trust & Safety Professionals Association. Prior to joining CDT, Aliya worked at Ranking Digital Rights and before that, the Association for a Better New York where she worked to increase access to the first digital decennial census in the United States. Aliya began her policy career at the Toronto Youth Cabinet where she advocated for youth participation in municipal policymaking. Aliya's work has been published in CNN, Wired, Teen Vogue, Ms Magazine, Tech Policy Press, The Toronto Star, and The Wire among other outlets. She earned her Master's in Public Policy & Administration from Columbia University and her B.A. in International Relations and Art History from the University of Toronto. She lives in Washington D.C. and grew up in both India and Canada.",
         "event_url": "",
         "category": [
             "Seminar"
@@ -60,7 +60,7 @@
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "Major developers of general-purpose artificial intelligence (AI) systems currently build and enforce safety policies that prioritize risks to U.S.-based, English-speaking users. This talk examines two drivers of that pattern: safety assessments are designed around U.S. contexts and fail to capture the severity, impact, and circumstances of risks users face elsewhere; and companies say they lack the data and resources to evaluate and mitigate risks to users in the Global Majority. The result is that users in the Global Majority and non-English speakers worldwide encounter systems that are less reliably safe and trustworthy, limiting their ability to access information relevant to their regional and linguistic contexts and to reach economic opportunity. The talk situates this trend within longstanding asymmetries on the web, including the scarcity of content in languages other than English, uneven resourcing of content moderation teams and processes, and disparate treatment of user speech and action online. This talk will end with walking through policy and governance levers we can pull to establish greater transparency and accountability for users in the Global Majority.",
         "speakers": []
     },
     {
