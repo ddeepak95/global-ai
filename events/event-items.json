@@ -80,8 +80,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Vyoma Raman** is a PhD student in Information Science at Cornell Tech / Cornell University.",
+        "name": "Global AI Seminar: Disagreement In, Disagreement Out? Uneven Downstream Effects of Harm Classifier Differences",
+        "short_description": "**Vyoma** is a PhD student in Information Science at Cornell Tech advised by Angelina Wang and supported by a NSF Graduate Research Fellowship. She studies algorithmic justice and natural language processing. Previously, Vyoma received computer science degrees from UC Berkeley and Stanford University.",
         "event_url": "",
         "category": [
             "Seminar"
@@ -92,7 +92,7 @@
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "Harm classifiers are machine learning models that are primarily used in three settings: content moderation, where they scale up the detection of harmful text; intervention selection, where they identify the most effective alignment interventions; and preference alignment, where they help train models to be harmless. Prior work has established that popular harm classifiers disagree substantially with each other in terms of which pieces of text are harmful. However, it is not yet known whether these differences actually matter in the settings where harm classifiers are used. We find that for content moderation, some pairs of harm classifiers can disagree in a majority of cases and half the pairs disagree on at least 27% of text; and for intervention selection, five of six alignment interventions rank first under at least one of ten harm classifiers, meaning that the choice of harm classifier can determine which intervention appears best. On the other hand, for preference alignment, we find that harm classifiers have little effect on the aggregate harmfulness of models aligned on their preference signal. Even when two harm classifiers disagree on 55% of texts, the responses of the associated pair of aligned models differ in average harm rates by only 3 percentage points. However, these models do not behave identically: if harm classifiers are more likely to flag text containing content features like political content, the associated aligned models are also less likely to generate that content feature. Our results establish that the choice of harm classifier, which is often seen as an inconsequential choice of convenience, is in fact a critical design decision that can have dramatic effects in some settings (like content moderation), but negligible impacts in others (like harm reduction in preference alignment).",
         "speakers": []
     },
     {
