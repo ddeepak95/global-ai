@@ -144,8 +144,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Charvi Rastogi** is a Research Scientist at Google DeepMind.",
+        "name": "Global AI Seminar: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South",
+        "short_description": "**Charvi Rastogi** is a researcher at Google DeepMind, where she works on topics related to AI safety, human–AI collaboration, responsible AI, and the societal impact of artificial intelligence. Charvi earned her Ph.D. in Machine Learning from Carnegie Mellon University. During her doctoral studies, she explored how humans interact with and make decisions alongside AI systems. Her research has examined ways to make human–AI collaboration more effective, reliable, and responsible, particularly in situations where AI is used to support important decisions. Her doctoral research received support through fellowships from J.P. Morgan AI Research and IBM. Before joining Google DeepMind, Charvi gained research experience with organizations including Microsoft Research and IBM Research. She completed her undergraduate education at the Indian Institute of Technology (IIT) Bombay. Through her research, Charvi contributes to the growing effort to understand not only how advanced AI systems can become more capable, but also how they can be designed and used in ways that are safe, useful, and beneficial to people across different communities and social contexts.",
         "event_url": "",
         "category": [
             "Seminar"
@@ -156,7 +156,7 @@
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "Despite the global deployment of text-to-image (T2I) models, their safety frameworks are largely calibrated to a Western-centric default, creating significant vulnerabilities for the rest of the world. To embrace cultural pluralism and bring historically under-represented perspectives in T2I safety, we conducted localised, community-centered red teaming studies in the Global South. Our two-fold approach prioritizes localization and participation, by focusing on secondary urban centers in these regions and conducting community engagement and training workshops to contextualize local norms. As a result, we present PLACES, a dataset comprising over 26,000 examples of T2I model failures collected in partnership with universities in Ghana, Nigeria, and two regions of India (Karnataka and Punjab). Analysis of the collected prompts reveals wide-ranging diversity in socio-cultural and linguistic attributes, when compared to existing geography-agnostic crowdsourced red-teaming data. We observe unique adversarial patterns enabled by local cultural and linguistic nuances, and distinct clusters within region around specific themes, such as religion in India. Moreover, we uncover structural contextual gaps in existing safety frameworks by identifying novel harms showing normative dissonance (e.g., violating religious norms, ignoring local customs, and ominous symbolism). This work argues that expanding T2I safety requires moving beyond mere scale to incorporate deeply localized, participatory methodologies for data collection and contextualization.",
         "speakers": []
     },
     {
