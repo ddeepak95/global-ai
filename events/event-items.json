@@ -192,6 +192,22 @@
         "speakers": []
     },
     {
+        "name": "Global AI Seminar: Reimagining CS Education: Agentic Engineering, Authentic Assessment, and Human-Centered Design for Learner Agency",
+        "short_description": "**Kevin Lin** (he/him) is an Associate Teaching Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where he co-directs the Center for Learning, Computing, and Imagination. He leads instructional innovation in data programming and data structures with a focus on empowering students to redesign computing problems and artifacts. Kevin received his MS in Computer Science from UC Berkeley, where he coordinated the teaching and delivery of very large-scale undergraduate CS courses to over 1,000 students per semester.",
+        "event_url": "",
+        "category": [
+            "Seminar"
+        ],
+        "image_url": "https://raw.githubusercontent.com/ddeepak95/global-ai/main/events/photos/kevin-lin.webp",
+        "start_date": "2026-11-17",
+        "end_date": "2026-11-17",
+        "time": "2:00 PM - 3:00 PM ET",
+        "location": "CIS 250",
+        "zoom_url": "",
+        "abstract": "Computers have always been good at giving answers; generative AI makes answers nearly frictionless. For computing education, which has long treated producing code as evidence of learning, this raises a question about what we value and whose judgment we are cultivating. In software engineering, the bottleneck is shifting from writing code toward architecting, specifying, verifying, and taking responsibility for code no one wrote by hand. Yet the curricula, assessments, and professional norms emerging around this shift are being designed largely in and for a narrow slice of the world’s learners and workplaces. Drawing on a synthesis from the Consortium for Generative AI in CS Education and on classroom experiments at the University of Washington, this talk offers five paired frames—questions and answers, past and present, depth and breadth, learner and agent, self and society—for reimagining computing education. Along the way, it considers how students can learn to interrogate the design assumptions built into everyday technologies, how assessment can measure the learner rather than the agent, how “everyone can code” changes who computing education is for, and how community-engaged projects and dialogue can rebuild the agency that frictionless tools can erode.",
+        "speakers": []
+    },
+    {
         "name": "Global AI Seminar",
         "short_description": "**Vivek Seshadri** is Co-Founder and CTO of Karya, and a Principal Researcher at Microsoft Research India.",
         "event_url": "",
