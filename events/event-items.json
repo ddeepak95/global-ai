@@ -160,8 +160,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Josh Blumenstock** is a Chancellor's Professor at the School of Information and the Goldman School of Public Policy at the University of California, Berkeley, where he directs the Global Opportunity Lab.",
+        "name": "Global AI Seminar: Training algorithms to anticipate manipulation",
+        "short_description": "**Joshua Blumenstock** is a Chancellor’s Professor at the U.C. Berkeley School of Information and the Goldman School of Public Policy. He is the Director of the Global Opportunity Lab, a co-Director of the Center for Effective Global Action, and a co-Chair of JPAL's Project AI Evidence. Blumenstock's work focuses on the design, rigorous evaluation, and improvement of machine learning and artificial intelligence systems intended to address concrete policy problems facing poor and vulnerable populations. He has a Ph.D. in Information Science and an M.A. in Economics from U.C. Berkeley, and Bachelor’s degrees in Computer Science and Physics from Wesleyan University. He is a recipient of awards including the NSF CAREER award, a Schmidt Futures fellowship, and the U.C. Berkeley Chancellor's Award for Public Service. His work appears in general interest journals including Science, Nature, and PNAS, as well as prominent economics journals (e.g., American Economic Review, Journal of Political Economy) and computer science conferences (e.g., ICML, KDD, AAAI, WWW, CHI).",
         "event_url": "",
         "category": [
             "Seminar"
@@ -172,7 +172,7 @@
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "An increasing number of decisions are guided by learning algorithms. But when consequential decisions are encoded in algorithms, individuals may strategically alter their behavior to achieve desired outcomes. This paper develops an empirical approach to adjust decision algorithms to anticipate manipulation. By explicitly modeling incentives to manipulate, our approach produces decision rules that are stable under manipulation, even when the rules are fully transparent. We stress test this approach through a large field experiment in Kenya. When implemented, decision rules estimated with this strategy-robust approach outperform those based on standard machine learning approaches.",
         "speakers": []
     },
     {
