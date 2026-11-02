@@ -176,8 +176,8 @@
         "speakers": []
     },
     {
-        "name": "Global AI Seminar",
-        "short_description": "**Jessica Ratcliff** is an Associate Professor in the Department of Science & Technology Studies at Cornell University.",
+        "name": "Global AI Seminar: Is Gen AI Eating the Historical Record? Some preliminary worries about archives, access and cultural heritage in the age of brute-force AI",
+        "short_description": "**Jessica Ratcliff** is an Associate Professor in the Department of Science and Technology Studies at Cornell. She works on the history of science and technology, with a focus on Britain and its former empire. Her most recent book is: Monopolizing Knowledge: The East India Company and Britain's Second Scientific Revolution (Cambridge University Press, 2025) - now [open access](https://www.cambridge.org/core/books/monopolizing-knowledge/8EF2F2B77FD76449A16BF4B8CAAD1CBE).",
         "event_url": "",
         "category": [
             "Seminar"
@@ -188,7 +188,7 @@
         "time": "2:00 PM - 3:00 PM ET",
         "location": "Gates 203 | Virtual",
         "zoom_url": "https://cornell.zoom.us/j/97246247040?pwd=4TI3kQI1Ttihj8R47bH3kXnUpR8edM.1&jst=2",
-        "abstract": "",
+        "abstract": "This talk is a preliminary reflection on the AI disruption and the future of history (i.e. knowledge of the past). In the first part, I take up some recent arguments that, because of its dependence on a vast data archive,  generative AI itself is a technology of history, similar in important ways to libraries, museums and archives.  I will briefly situate the present AI disruption within the history of libraries and museums, including the massive disruption to the global historical record that has happened in times of imperial expansion. The second part of the talk turns to the question of how the AI disruption may be impacting the future of our knowledge of the past by damaging the historical record today. I will look at several different examples in which the search for training data poses a risk to cultural heritage around the world.",
         "speakers": []
     },
     {
